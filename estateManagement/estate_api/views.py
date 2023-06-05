@@ -5,11 +5,15 @@ from .serializers import HouseSerializer, SalesPersonSerializer, ContactSerializ
 
 # Create your views here.
 
-class HouseSerializer(generics.ListCreateAPIView):
+class HouseListCreateView(generics.ListCreateAPIView):
     queryset = House.objects.all()
-    serializers_class = HouseSerializer
+    def get_serializer_class(self):
+        if self.request.method == 'POST':
+            return HouseSerializer
+        else:
+            return HouseSerializer
 
-class  HouseRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyView):
+class  HouseRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):
     queryset = House.objects.all()
     serializers_class = HouseSerializer
 
