@@ -1,7 +1,6 @@
 from .base import *
 
-DATABASES = {
-   
+DATABASES = {   
     "default" : {
         "ENGINE" : env("POSTGRES_ENGINE"),
         "NAME": env("POSTGRES_DB"),

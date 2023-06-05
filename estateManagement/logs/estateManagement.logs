@@ -1,0 +1,12 @@
+2023-06-05 16:57:46,969 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-05 16:58:31,296 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/base.py changed, reloading.
+2023-06-05 16:58:31,543 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-05 16:58:35,704 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/base.py changed, reloading.
+2023-06-05 16:58:35,952 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-05 16:58:44,131 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/base.py changed, reloading.
+2023-06-05 16:58:44,468 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-05 17:02:30,356 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-05 17:08:37,128 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/base.py changed, reloading.
+2023-06-05 17:08:37,400 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-05 17:09:05,685 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/developement.py changed, reloading.
+2023-06-05 17:09:05,959 django.utils.autoreloadINFO    Watching for file changes with StatReloader
