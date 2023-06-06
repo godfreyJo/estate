@@ -70,3 +70,5 @@
 2023-06-06 23:03:41,619 django.utils.autoreloadINFO    Watching for file changes with StatReloader
 2023-06-06 23:04:01,131 django.requestWARNING Not Found: /
 2023-06-06 23:05:52,472 django.security.csrfWARNING Forbidden (CSRF token missing or incorrect.): /admin/login/
+2023-06-06 23:16:47,447 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-06 23:16:54,231 django.requestWARNING Not Found: /
