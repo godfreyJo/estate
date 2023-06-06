@@ -56,3 +56,9 @@
 2023-06-06 12:05:49,891 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/apps/common/models.py changed, reloading.
 2023-06-06 12:05:50,255 django.utils.autoreloadINFO    Watching for file changes with StatReloader
 2023-06-06 12:40:44,683 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-06 15:02:56,233 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-06 15:04:09,387 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-06 15:12:01,196 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-06 15:21:21,787 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-06 15:24:02,847 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-06 22:50:46,680 django.utils.autoreloadINFO    Watching for file changes with StatReloader
