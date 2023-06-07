@@ -72,3 +72,8 @@
 2023-06-06 23:05:52,472 django.security.csrfWARNING Forbidden (CSRF token missing or incorrect.): /admin/login/
 2023-06-06 23:16:47,447 django.utils.autoreloadINFO    Watching for file changes with StatReloader
 2023-06-06 23:16:54,231 django.requestWARNING Not Found: /
+2023-06-07 10:25:07,848 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-07 10:25:26,183 django.requestWARNING Not Found: /
+2023-06-07 10:25:26,608 django.requestWARNING Not Found: /favicon.ico
+2023-06-07 10:49:13,687 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/urls.py changed, reloading.
+2023-06-07 10:49:14,302 django.utils.autoreloadINFO    Watching for file changes with StatReloader
