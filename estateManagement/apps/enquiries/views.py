@@ -4,7 +4,7 @@ from rest_framework.decorators import api_view, permission_classes
 from rest_framework.response import Response
 
 from estateManagement.settings.development import DEFAULT_FROM_EMAIL
-
+     
 from .models import Enquiry
 
 
