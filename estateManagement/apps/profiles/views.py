@@ -13,7 +13,7 @@ class AgentListAPIView(generics.ListAPIView):
     permission_classes = [permissions.IsAuthenticated]
     queryset = Profile.objects.filter(is_agent=True)
     serializer_class = ProfileSerializer
-
+ 
 
 """
     from rest_framework import api_view, permissions
