@@ -95,7 +95,7 @@ class PropertyDetailView(APIView):
 
         return Response(serializer.data, status=status.HTTP_200_OK)
 
-
+# heree we use the function based views instead of class based views
 @api_view(["PUT"])
 @permission_classes([permissions.IsAuthenticated])
 def update_property_api_view(request, slug):
