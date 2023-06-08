@@ -7,8 +7,8 @@ EMAIL_PORT = env("EMAIL_PORT")
 EMAIL_HOST_USER = env("EMAIL_HOST_USER")
 EMAIL_HOST_PASSWORD = env("EMAIL_HOST_PASSWORD")
 DEFAULT_FROM_EMAIL = "info@estatemanagement.com"
-# DOMAIN = env("DOMAIN")
-# SITE_NAME = "Estate Management"
+DOMAIN = env("DOMAIN")
+SITE_NAME = "Estate Management"
 
 DATABASES = {   
        'default': {

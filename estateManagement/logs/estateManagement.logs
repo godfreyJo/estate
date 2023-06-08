@@ -8,7 +8,7 @@
 2023-06-05 17:02:30,356 django.utils.autoreloadINFO    Watching for file changes with StatReloader
 2023-06-05 17:08:37,128 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/base.py changed, reloading.
 2023-06-05 17:08:37,400 django.utils.autoreloadINFO    Watching for file changes with StatReloader
-2023-06-05 17:09:05,685 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/developement.py changed, reloading.
+2023-06-05 17:09:05,685 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/development.py changed, reloading.
 2023-06-05 17:09:05,959 django.utils.autoreloadINFO    Watching for file changes with StatReloader
 2023-06-05 17:26:42,761 django.utils.autoreloadINFO    Watching for file changes with StatReloader
 2023-06-05 17:27:17,945 django.utils.autoreloadINFO    Watching for file changes with StatReloader
@@ -18,26 +18,26 @@
 2023-06-05 17:53:57,568 django.utils.autoreloadINFO    Watching for file changes with StatReloader
 2023-06-05 17:55:40,989 django.utils.autoreloadINFO    Watching for file changes with StatReloader
 2023-06-06 09:24:30,362 django.utils.autoreloadINFO    Watching for file changes with StatReloader
-2023-06-06 09:25:16,992 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/developement.py changed, reloading.
+2023-06-06 09:25:16,992 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/development.py changed, reloading.
 2023-06-06 09:25:17,335 django.utils.autoreloadINFO    Watching for file changes with StatReloader
 2023-06-06 09:25:33,595 django.requestWARNING Not Found: /
 2023-06-06 09:25:33,906 django.requestWARNING Not Found: /favicon.ico
-2023-06-06 09:25:57,476 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/developement.py changed, reloading.
+2023-06-06 09:25:57,476 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/development.py changed, reloading.
 2023-06-06 09:25:57,860 django.utils.autoreloadINFO    Watching for file changes with StatReloader
 2023-06-06 09:27:47,123 django.utils.autoreloadINFO    Watching for file changes with StatReloader
-2023-06-06 09:35:15,049 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/developement.py changed, reloading.
+2023-06-06 09:35:15,049 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/development.py changed, reloading.
 2023-06-06 09:35:15,379 django.utils.autoreloadINFO    Watching for file changes with StatReloader
-2023-06-06 09:35:17,766 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/developement.py changed, reloading.
+2023-06-06 09:35:17,766 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/development.py changed, reloading.
 2023-06-06 09:35:18,209 django.utils.autoreloadINFO    Watching for file changes with StatReloader
 2023-06-06 09:35:32,879 django.requestWARNING Not Found: /
-2023-06-06 09:42:22,920 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/developement.py changed, reloading.
+2023-06-06 09:42:22,920 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/development.py changed, reloading.
 2023-06-06 09:42:23,309 django.utils.autoreloadINFO    Watching for file changes with StatReloader
 2023-06-06 12:03:06,836 django.utils.autoreloadINFO    Watching for file changes with StatReloader
-2023-06-06 12:03:44,249 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/developement.py changed, reloading.
+2023-06-06 12:03:44,249 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/development.py changed, reloading.
 2023-06-06 12:03:44,600 django.utils.autoreloadINFO    Watching for file changes with StatReloader
-2023-06-06 12:03:46,995 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/developement.py changed, reloading.
+2023-06-06 12:03:46,995 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/development.py changed, reloading.
 2023-06-06 12:03:47,408 django.utils.autoreloadINFO    Watching for file changes with StatReloader
-2023-06-06 12:03:48,831 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/developement.py changed, reloading.
+2023-06-06 12:03:48,831 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/development.py changed, reloading.
 2023-06-06 12:03:49,249 django.utils.autoreloadINFO    Watching for file changes with StatReloader
 2023-06-06 12:04:42,550 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/apps/common/models.py changed, reloading.
 2023-06-06 12:04:42,918 django.utils.autoreloadINFO    Watching for file changes with StatReloader
@@ -77,3 +77,20 @@
 2023-06-07 10:25:26,608 django.requestWARNING Not Found: /favicon.ico
 2023-06-07 10:49:13,687 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/urls.py changed, reloading.
 2023-06-07 10:49:14,302 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-07 13:10:21,026 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-07 13:10:32,110 django.requestWARNING Not Found: /
+2023-06-07 13:40:56,140 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-07 13:42:54,956 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-07 13:44:27,428 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/apps/enquiries/views.py changed, reloading.
+2023-06-07 13:44:28,002 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-07 13:44:47,748 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/apps/enquiries/views.py changed, reloading.
+2023-06-07 13:44:48,303 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-07 13:44:57,702 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/apps/enquiries/views.py changed, reloading.
+2023-06-07 13:44:58,278 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-07 13:45:00,633 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/apps/enquiries/views.py changed, reloading.
+2023-06-07 13:45:01,201 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-07 13:45:08,740 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/apps/enquiries/views.py changed, reloading.
+2023-06-07 13:45:09,296 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-07 13:47:18,747 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/development.py changed, reloading.
+2023-06-07 13:47:19,312 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2023-06-07 13:50:14,524 django.utils.autoreloadINFO    Watching for file changes with StatReloader
