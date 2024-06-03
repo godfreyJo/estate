@@ -1,20 +1,20 @@
-Django==3.2.7
-djangorestframework==3.12.4
-django-environ==0.10.0
-django-filter==23.2
-django-autoslug==1.9.9
-django-countries==7.5.1
-Pillow==9.5.0
-django-phonenumber-field==7.1.0
-phonenumbers==8.13.13
-psycopg2-binary==2.9.1
-flake8==3.9.2
-black==23.3.0
-isort==5.12.0
-djoser==2.1.0
-djangorestframework-simplejwt==4.8.0
-PyJWT==2.7.0
-pytz==2023.3
+Django==5.0.6
+djangorestframework==3.15.1 # web APIs for django
+django-environ==0.11.2 # a package that allows utilization of 12factor inspired environment variable for django
+django-filter==24.2 # library that allows users to filter querysets dynamically
+django-autoslug==1.9.9 # package used to automate slug filed for django
+django-countries==7.6.1 # library that provides a country field for django models
+Pillow==10.3.0 # Python image library
+django-phonenumber-field==7.3.0 # An international phone number field for django models.
+phonenumbers==8.13.37 # Python version of Google's common library for parsing, formatting, storing and validating international phone numbers.
+psycopg2-binary==2.9.9 # Python-PostgreSQL Database Adapter
+flake8==7.0.0 # the modular source code checker: pep8 pyflakes and co
+black==24.4.2 #The uncompromising code formatter.
+isort==5.13.2 # this is a py utility/library to sort python imports
+djoser==2.2.2 # This library is for REST implementation of django authentication system
+djangorestframework-simplejwt==5.3.1  # a minimal JSON Web Token authentication plign got django REST Framework
+PyJWT==2.8.0 # JSON Web Token Implementation in python
+pytz==2024.1 # world timezone definitions, moderm and historical
 
 
 

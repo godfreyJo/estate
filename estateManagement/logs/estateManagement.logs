@@ -94,3 +94,11 @@
 2023-06-07 13:47:18,747 django.utils.autoreloadINFO    /workspaces/estate/estateManagement/estateManagement/settings/development.py changed, reloading.
 2023-06-07 13:47:19,312 django.utils.autoreloadINFO    Watching for file changes with StatReloader
 2023-06-07 13:50:14,524 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2024-06-03 10:46:17,972 django.utils.autoreloadINFO    Watching for file changes with StatReloader
+2024-06-03 10:47:06,048 django.requestWARNING Not Found: /
+2024-06-03 10:53:24,800 django.requestWARNING Not Found: /
+2024-06-03 10:57:41,085 django.requestWARNING Not Found: /ap1/v1/profile
+2024-06-03 10:57:45,449 django.requestWARNING Not Found: /ap1
+2024-06-03 10:57:55,037 django.requestWARNING Not Found: /api/v1/profile
+2024-06-03 10:58:04,342 django.requestWARNING Not Found: /api/v1/profile/
+2024-06-03 10:58:15,811 django.requestWARNING Not Found: /api/v1/agents
